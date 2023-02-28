@@ -155,5 +155,6 @@ app.use(vuetify)
 - `vertical` has been renamed to `direction="vertical"`.
 
 ### v-tabs
-
+- `v-tabs-items` has been removed, use `v-window`
 - `v-tab-item` has been removed, use `v-window-item`
+- `v-tabs-slider` has been removed, use `slider-color` prop
