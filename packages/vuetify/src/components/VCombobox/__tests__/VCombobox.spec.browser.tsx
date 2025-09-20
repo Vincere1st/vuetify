@@ -252,6 +252,8 @@ describe('VCombobox', () => {
         ['a', 1],
         ['x', 0],
         ['y', 0],
+        ['z', 0],
+        ['{Backspace}', 0],
         ['{Backspace}', 0],
         ['{Backspace}', 1],
         ['{Backspace}', 2],
